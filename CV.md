@@ -4,4 +4,4 @@ title: CV
 permalink: /CV/
 ---
 
-My CV will go here...
+Check out my CV [here]({{ site.baseurl }}/cv.pdf).
