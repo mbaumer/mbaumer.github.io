@@ -29,6 +29,11 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+include:
+  - states
+collections:
+  states:
+    output : true
 exclude:
   - Gemfile
   - Gemfile.lock
