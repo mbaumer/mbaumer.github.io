@@ -1,4 +1,5 @@
 ---
+permalink : /states/OK/
 ---
 
 # OK

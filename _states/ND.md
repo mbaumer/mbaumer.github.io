@@ -1,4 +1,5 @@
 ---
+permalink : /states/ND/
 ---
 
 # ND

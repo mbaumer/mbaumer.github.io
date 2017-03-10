@@ -1,4 +1,5 @@
 ---
+permalink : /states/KS/
 ---
 
 # KS

@@ -1,4 +1,5 @@
 ---
+permalink : /states/ME/
 ---
 
 # ME

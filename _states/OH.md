@@ -1,4 +1,5 @@
 ---
+permalink : /states/OH/
 ---
 
 # OH

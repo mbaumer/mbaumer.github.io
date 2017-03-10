@@ -1,4 +1,5 @@
 ---
+permalink : /states/CT/
 ---
 
 # CT

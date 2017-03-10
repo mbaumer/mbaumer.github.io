@@ -1,4 +1,5 @@
 ---
+permalink : /states/MN/
 ---
 
 # MN

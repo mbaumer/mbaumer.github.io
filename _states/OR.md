@@ -1,4 +1,5 @@
 ---
+permalink : /states/OR/
 ---
 
 # OR
