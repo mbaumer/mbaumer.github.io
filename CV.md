@@ -4,7 +4,7 @@ title: CV
 permalink: /CV/
 ---
 
-Download my CV [here]({{ site.baseurl }}/cv.pdf).
+Download my CV [here]({{ site.baseurl }}/assets/cv.pdf).
 
 ## EDUCATION
 Stanford University, Stanford, CA
