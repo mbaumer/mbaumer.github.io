@@ -16,14 +16,15 @@
 title: Michael Baumer
 email: mbaumer@stanford.edu
 description: > # this means to ignore newlines until "baseurl:"
-  PhD student at Stanford University. I help the Dark Energy Survey look for 
-  dark matter, and make sure the camera destined for the Large Synoptic Survey 
-  Telescope is up to its task. 
+  PhD student at Stanford University. I study the relationship of galaxies and dark matter with the Dark Energy Survey, 
+  and am helping to build the world's largest digital camera for the Large Synoptic Survey Telescope. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  mbaumer
 linkedin_username: mbaumer
+
+google_analytics : UA-93671404-2
 
 # Build settings
 markdown: kramdown
